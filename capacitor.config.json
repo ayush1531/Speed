@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "speed",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
